@@ -1,0 +1,12 @@
+13:48:32 [main] INFO  com.telran.demoqa.tests.TestBase - Start test: dragMeDragabblePageTest
+13:48:32 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //h5[.='Interactions']
+13:48:32 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //h5[.='Interactions'] --> was found
+13:48:32 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //span[.='Dragabble']
+13:48:32 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //span[.='Dragabble'] --> was found
+13:48:35 [Forwarding actions on session c703f4f2bf1c917d46c2ee99c2cbf6e0 to remote] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: dragBox
+13:48:35 [Forwarding actions on session c703f4f2bf1c917d46c2ee99c2cbf6e0 to remote] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: dragBox --> was found
+13:48:35 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: app
+13:48:35 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: app --> was found
+13:48:35 [main] INFO  com.telran.demoqa.tests.TestBase - Test result: PASSED
+13:48:35 [main] INFO  com.telran.demoqa.tests.TestBase - Stop test: dragMeDragabblePageTest
+13:48:35 [main] INFO  com.telran.demoqa.tests.TestBase - ===========================================================

@@ -1,0 +1,18 @@
+13:44:41 [main] INFO  com.telran.demoqa.tests.TestBase - Start test: dragMeDragabblePageTest
+13:44:41 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //h5[.='Interactions']
+13:44:41 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //h5[.='Interactions'] --> was found
+13:44:41 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //span[.='Droppable']
+13:44:41 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //span[.='Droppable'] --> was found
+13:44:45 [Forwarding actions on session 63223b8d0239bdd26b0304d42f74f8e4 to remote] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: dragBox
+13:44:45 [Forwarding actions on session 63223b8d0239bdd26b0304d42f74f8e4 to remote] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: dragBox --> was found
+13:44:45 [main] ERROR com.telran.demoqa.helpers.MyListener - org.openqa.selenium.ElementNotInteractableException: element not interactable: [object HTMLDivElement] has no size and location
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'LENA', ip: '192.168.178.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\Asus\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 63223b8d0239bdd26b0304d42f74f8e4
+13:44:45 [main] ERROR com.telran.demoqa.helpers.MyListener - screenshots/screen2685.png
+13:44:45 [main] ERROR com.telran.demoqa.tests.TestBase - Test result: FAILED
+13:44:45 [main] INFO  com.telran.demoqa.tests.TestBase - Stop test: dragMeDragabblePageTest
+13:44:45 [main] INFO  com.telran.demoqa.tests.TestBase - ===========================================================

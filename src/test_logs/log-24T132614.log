@@ -1,0 +1,14 @@
+13:26:18 [main] INFO  com.telran.demoqa.tests.TestBase - Start test: newWindowTest
+13:26:18 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //div[@class='category-cards']/div[.='Alerts, Frame & Windows']
+13:26:18 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //div[@class='category-cards']/div[.='Alerts, Frame & Windows'] --> was found
+13:26:18 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //span[.='Browser Windows']
+13:26:18 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //span[.='Browser Windows'] --> was found
+13:26:18 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: windowButton
+13:26:18 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: windowButton --> was found
+13:26:18 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //h1[.='This is a sample page']
+13:26:18 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //h1[.='This is a sample page'] --> was found
+13:26:18 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //h1[.='This is a sample page']
+13:26:18 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //h1[.='This is a sample page'] --> was found
+13:26:18 [main] INFO  com.telran.demoqa.tests.TestBase - Test result: PASSED
+13:26:18 [main] INFO  com.telran.demoqa.tests.TestBase - Stop test: newWindowTest
+13:26:18 [main] INFO  com.telran.demoqa.tests.TestBase - ===========================================================

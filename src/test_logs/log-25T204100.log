@@ -1,0 +1,8 @@
+20:41:04 [main] INFO  com.telran.demoqa.tests.TestBase - Start test: dragAcceptableFrameTest
+20:41:04 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //h5[.='Interactions']
+20:41:04 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //h5[.='Interactions'] --> was found
+20:41:04 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //span[.='Droppable']
+20:41:04 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //span[.='Droppable'] --> was found
+20:41:04 [main] INFO  com.telran.demoqa.tests.TestBase - Test result: PASSED
+20:41:04 [main] INFO  com.telran.demoqa.tests.TestBase - Stop test: dragAcceptableFrameTest
+20:41:04 [main] INFO  com.telran.demoqa.tests.TestBase - ===========================================================

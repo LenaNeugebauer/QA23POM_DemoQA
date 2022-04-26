@@ -1,0 +1,28 @@
+12:00:03 [main] INFO  com.telran.demoqa.tests.TestBase - Start test: dragAcceptableFrameTest
+12:00:03 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //h5[.='Interactions']
+12:00:03 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //h5[.='Interactions'] --> was found
+12:00:03 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //span[.='Droppable']
+12:00:03 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //span[.='Droppable'] --> was found
+12:00:03 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: droppableExample-tab-accept
+12:00:03 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: droppableExample-tab-accept --> was found
+12:00:03 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: draggable
+12:00:03 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: draggable --> was found
+12:00:03 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: draggable
+12:00:03 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: draggable --> was found
+12:00:03 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: droppable
+12:00:03 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: droppable --> was found
+12:00:04 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: droppable
+12:00:04 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: droppable --> was found
+12:00:05 [Forwarding actions on session d3cb44a60bc4c1ddc88d3c745be25c40 to remote] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: draggable
+12:00:05 [Forwarding actions on session d3cb44a60bc4c1ddc88d3c745be25c40 to remote] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: draggable --> was found
+12:00:05 [main] ERROR com.telran.demoqa.helpers.MyListener - org.openqa.selenium.ElementNotInteractableException: element not interactable: [object HTMLDivElement] has no size and location
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'LENA', ip: '192.168.178.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\Asus\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:63818}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d3cb44a60bc4c1ddc88d3c745be25c40
+12:00:05 [main] ERROR com.telran.demoqa.helpers.MyListener - screenshots/screen5.png
+12:00:05 [main] ERROR com.telran.demoqa.tests.TestBase - Test result: FAILED
+12:00:05 [main] INFO  com.telran.demoqa.tests.TestBase - Stop test: dragAcceptableFrameTest
+12:00:05 [main] INFO  com.telran.demoqa.tests.TestBase - ===========================================================

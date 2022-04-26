@@ -1,0 +1,18 @@
+13:38:41 [main] INFO  com.telran.demoqa.tests.TestBase - Start test: dragAcceptableFrameTest
+13:38:41 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //h5[.='Interactions']
+13:38:41 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //h5[.='Interactions'] --> was found
+13:38:41 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //span[.='Droppable']
+13:38:41 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //span[.='Droppable'] --> was found
+13:38:42 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: droppableExample-tab-accept
+13:38:42 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: droppableExample-tab-accept --> was found
+13:38:45 [Forwarding actions on session cf54d32b0434fed8359dd8a3c5ceae7d to remote] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: acceptable
+13:38:45 [Forwarding actions on session cf54d32b0434fed8359dd8a3c5ceae7d to remote] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: acceptable --> was found
+13:38:45 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: droppable
+13:38:45 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: droppable --> was found
+13:38:48 [Forwarding actions on session cf54d32b0434fed8359dd8a3c5ceae7d to remote] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: notAcceptable
+13:38:48 [Forwarding actions on session cf54d32b0434fed8359dd8a3c5ceae7d to remote] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: notAcceptable --> was found
+13:38:49 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: droppable
+13:38:49 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: droppable --> was found
+13:38:49 [main] INFO  com.telran.demoqa.tests.TestBase - Test result: PASSED
+13:38:49 [main] INFO  com.telran.demoqa.tests.TestBase - Stop test: dragAcceptableFrameTest
+13:38:49 [main] INFO  com.telran.demoqa.tests.TestBase - ===========================================================

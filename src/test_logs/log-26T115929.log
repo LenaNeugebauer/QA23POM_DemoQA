@@ -1,0 +1,20 @@
+11:59:31 [main] INFO  com.telran.demoqa.tests.TestBase - Start test: dragMeByTest
+11:59:31 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //h5[.='Interactions']
+11:59:32 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //h5[.='Interactions'] --> was found
+11:59:32 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //span[.='Droppable']
+11:59:32 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //span[.='Droppable'] --> was found
+11:59:32 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: draggable
+11:59:32 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: draggable --> was found
+11:59:32 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: draggable
+11:59:32 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: draggable --> was found
+11:59:32 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: droppable
+11:59:32 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: droppable --> was found
+11:59:32 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: droppable
+11:59:32 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: droppable --> was found
+11:59:33 [Forwarding actions on session 2218746a17e49b9be359575228cddf35 to remote] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: draggable
+11:59:33 [Forwarding actions on session 2218746a17e49b9be359575228cddf35 to remote] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: draggable --> was found
+11:59:33 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: droppable
+11:59:33 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: droppable --> was found
+11:59:33 [main] INFO  com.telran.demoqa.tests.TestBase - Test result: PASSED
+11:59:33 [main] INFO  com.telran.demoqa.tests.TestBase - Stop test: dragMeByTest
+11:59:33 [main] INFO  com.telran.demoqa.tests.TestBase - ===========================================================
