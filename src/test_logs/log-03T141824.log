@@ -1,0 +1,22 @@
+14:18:27 [main] INFO  com.telran.demoqa.tests.TestBase - Start test: fillAutoComplete
+14:18:27 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //div//h5[.='Widgets']
+14:18:27 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //div//h5[.='Widgets'] --> was found
+14:18:27 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //span[.='Auto Complete']
+14:18:27 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //span[.='Auto Complete'] --> was found
+14:18:27 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteMultipleInput
+14:18:27 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteMultipleInput --> was found
+14:18:27 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteMultipleInput
+14:18:27 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteMultipleInput --> was found
+14:18:27 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteMultipleInput
+14:18:27 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteMultipleInput --> was found
+14:18:27 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteMultipleInput
+14:18:27 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteMultipleInput --> was found
+14:18:27 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: react-select-2-options-0
+14:18:34 [main] ERROR com.telran.demoqa.helpers.MyListener - org.openqa.selenium.NoSuchElementException: Cannot locate an element using id=react-select-2-options-0
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'LENA', ip: '192.168.178.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: driver.version: EventFiringWebDriver
+14:18:34 [main] ERROR com.telran.demoqa.tests.TestBase - Test result: FAILED
+14:18:34 [main] INFO  com.telran.demoqa.tests.TestBase - Stop test: fillAutoComplete
+14:18:34 [main] INFO  com.telran.demoqa.tests.TestBase - ===========================================================

@@ -2,6 +2,7 @@ package com.telran.demoqa.pages;
 
 import com.google.common.io.Files;
 import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -62,5 +63,39 @@ public class PageBase {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    public void typeWithJS(WebElement element, int x, int y, String text) {
+        if (text != null) {
+            clickWithJSExecutor(element,x,y);
+            element.clear();
+            element.sendKeys(text);
+        }
+    }
+
+    public void hideFooter() {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+
+        js.executeScript("document.querySelector('footer').style.display='none'");
+    }
+
+    public void hideAd() {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("document.getElementById('adplus-anchor').style.display='none'");
+    }
+
+    public void clickWithRectangle(WebElement element, int i) {
+        Rectangle rect = element.getRect();
+
+        int offSetX = rect.getWidth()/ i;
+        int offSetY = rect.getHeight()/3;
+
+        Actions actions = new Actions(driver);
+        actions.moveToElement(element).perform();
+        actions.moveByOffset(-offSetX,-offSetY).click().perform();
+    }
+
+    public void should(WebElement element, int time) {
+        new WebDriverWait(driver,time).until(ExpectedConditions.visibilityOf(element));
     }
 }

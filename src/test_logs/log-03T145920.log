@@ -1,0 +1,36 @@
+14:59:23 [main] INFO  com.telran.demoqa.tests.TestBase - Start test: fillAutoComplete
+14:59:23 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //div//h5[.='Widgets']
+14:59:23 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //div//h5[.='Widgets'] --> was found
+14:59:23 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //span[.='Auto Complete']
+14:59:23 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //span[.='Auto Complete'] --> was found
+14:59:23 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteMultipleInput
+14:59:23 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteMultipleInput --> was found
+14:59:23 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteMultipleInput
+14:59:23 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteMultipleInput --> was found
+14:59:23 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteMultipleInput
+14:59:23 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteMultipleInput --> was found
+14:59:23 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteMultipleInput
+14:59:23 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteMultipleInput --> was found
+14:59:23 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteMultipleInput
+14:59:23 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteMultipleInput --> was found
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteMultipleInput
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteMultipleInput --> was found
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteMultipleInput
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteMultipleInput --> was found
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteMultipleInput
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteMultipleInput --> was found
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteMultipleInput
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteMultipleInput --> was found
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteMultipleInput
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteMultipleInput --> was found
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteMultipleInput
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteMultipleInput --> was found
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteMultipleInput
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteMultipleInput --> was found
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteSingleInput
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteSingleInput --> was found
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: autoCompleteSingleInput
+14:59:24 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: autoCompleteSingleInput --> was found
+14:59:24 [main] INFO  com.telran.demoqa.tests.TestBase - Test result: PASSED
+14:59:24 [main] INFO  com.telran.demoqa.tests.TestBase - Stop test: fillAutoComplete
+14:59:24 [main] INFO  com.telran.demoqa.tests.TestBase - ===========================================================

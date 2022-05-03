@@ -1,0 +1,8 @@
+13:29:06 [main] INFO  com.telran.demoqa.tests.TestBase - Start test: fillAutoComplete
+13:29:06 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //h5[.='Forms']
+13:29:06 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //h5[.='Forms'] --> was found
+13:29:06 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //span[.='Practice Form']
+13:29:06 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //span[.='Practice Form'] --> was found
+13:29:06 [main] INFO  com.telran.demoqa.tests.TestBase - Test result: PASSED
+13:29:06 [main] INFO  com.telran.demoqa.tests.TestBase - Stop test: fillAutoComplete
+13:29:06 [main] INFO  com.telran.demoqa.tests.TestBase - ===========================================================

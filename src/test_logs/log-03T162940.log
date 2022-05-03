@@ -1,0 +1,102 @@
+16:29:43 [main] INFO  com.telran.demoqa.tests.TestBase - Start test: fillStudentFormPositiveTest
+16:29:43 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //h5[.='Forms']
+16:29:43 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //h5[.='Forms'] --> was found
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //span[.='Practice Form']
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //span[.='Practice Form'] --> was found
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: firstName
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: firstName --> was found
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: firstName
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: firstName --> was found
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: firstName
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: firstName --> was found
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: lastName
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: lastName --> was found
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: lastName
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: lastName --> was found
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: lastName
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: lastName --> was found
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: userEmail
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: userEmail --> was found
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: userEmail
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: userEmail --> was found
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: userEmail
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: userEmail --> was found
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: userNumber
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: userNumber --> was found
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: userNumber
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: userNumber --> was found
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: userNumber
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: userNumber --> was found
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //label[@for='gender-radio-1']
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //label[@for='gender-radio-1'] --> was found
+16:29:44 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: dateOfBirthInput
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: dateOfBirthInput --> was found
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: dateOfBirthInput
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: dateOfBirthInput --> was found
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: dateOfBirthInput
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: dateOfBirthInput --> was found
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: dateOfBirthInput
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: dateOfBirthInput --> was found
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: subjectsInput
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: subjectsInput --> was found
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: subjectsInput
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: subjectsInput --> was found
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: subjectsInput
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: subjectsInput --> was found
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: subjectsInput
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: subjectsInput --> was found
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: subjectsInput
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: subjectsInput --> was found
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: subjectsInput
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: subjectsInput --> was found
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: subjectsInput
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: subjectsInput --> was found
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: subjectsInput
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: subjectsInput --> was found
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: subjectsInput
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: subjectsInput --> was found
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: subjectsInput
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: subjectsInput --> was found
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: subjectsInput
+16:29:45 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: subjectsInput --> was found
+16:29:46 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: subjectsInput
+16:29:46 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: subjectsInput --> was found
+16:29:46 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //label[@for='hobbies-checkbox-1']
+16:29:46 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //label[@for='hobbies-checkbox-1'] --> was found
+16:29:46 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //label[@for='hobbies-checkbox-2']
+16:29:46 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //label[@for='hobbies-checkbox-2'] --> was found
+16:29:46 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.xpath: //label[@for='hobbies-checkbox-3']
+16:29:46 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.xpath: //label[@for='hobbies-checkbox-3'] --> was found
+16:29:46 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: uploadPicture
+16:29:46 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: uploadPicture --> was found
+16:29:46 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: currentAddress
+16:29:46 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: currentAddress --> was found
+16:29:46 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: currentAddress
+16:29:46 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: currentAddress --> was found
+16:29:46 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: currentAddress
+16:29:46 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: currentAddress --> was found
+16:29:48 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: state
+16:29:48 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: state --> was found
+16:29:48 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: react-select-3-input
+16:29:48 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: react-select-3-input --> was found
+16:29:48 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: react-select-3-input
+16:29:48 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: react-select-3-input --> was found
+16:29:48 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: city
+16:29:48 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: city --> was found
+16:29:48 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: react-select-4-input
+16:29:48 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: react-select-4-input --> was found
+16:29:48 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: react-select-4-input
+16:29:48 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: react-select-4-input --> was found
+16:29:48 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: submit
+16:29:48 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: submit --> was found
+16:29:49 [Forwarding actions on session bdccd5dc898b95f024bf7a7079021798 to remote] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: submit
+16:29:49 [Forwarding actions on session bdccd5dc898b95f024bf7a7079021798 to remote] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: submit --> was found
+16:29:49 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: example-modal-sizes-title-lg
+16:29:49 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: example-modal-sizes-title-lg --> was found
+16:29:49 [main] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: closeLargeModal
+16:29:49 [main] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: closeLargeModal --> was found
+16:29:49 [Forwarding actions on session bdccd5dc898b95f024bf7a7079021798 to remote] INFO  com.telran.demoqa.helpers.MyListener - Start element --> By.id: closeLargeModal
+16:29:49 [Forwarding actions on session bdccd5dc898b95f024bf7a7079021798 to remote] INFO  com.telran.demoqa.helpers.MyListener - The element with locator --> By.id: closeLargeModal --> was found
+16:29:49 [main] INFO  com.telran.demoqa.tests.TestBase - Test result: PASSED
+16:29:49 [main] INFO  com.telran.demoqa.tests.TestBase - Stop test: fillStudentFormPositiveTest
+16:29:49 [main] INFO  com.telran.demoqa.tests.TestBase - ===========================================================
